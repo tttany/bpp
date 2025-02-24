@@ -1,0 +1,27 @@
+{
+    "company_id": "abcd1234",
+    "cloud_provider": "azr",
+    "cloud_account": "ddbb401e-e79d-4d7e-be37-1d7bf546eb59",
+    "file_paths": [
+        {
+            "s3_bucket_name": "devtiffanygzwiamdatapipel-attackpathresourceextrac-byysnatk4gyx",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "abcd1234/2025/02/11/39370866-3649-4dac-be89-99cf83bbff27/network_load_balancers_resources.json"
+        },
+        {
+            "s3_bucket_name": "devtiffanygzwiamdatapipel-attackpathresourceextrac-byysnatk4gyx",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "abcd1234/2025/02/11/39370866-3649-4dac-be89-99cf83bbff27/network_route_tables_resources.json"
+        },
+        {
+            "s3_bucket_name": "devtiffanygzwiamdatapipel-attackpathresourceextrac-byysnatk4gyx",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "abcd1234/2025/02/11/39370866-3649-4dac-be89-99cf83bbff27/network_virtual_networks_resources.json"
+        },
+        {
+            "s3_bucket_name": "devtiffanygzwiamdatapipel-attackpathresourceextrac-byysnatk4gyx",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "abcd1234/2025/02/11/39370866-3649-4dac-be89-99cf83bbff27/network_virtual_networks_subnets_resources.json"
+        }
+    ]
+}
